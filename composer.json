@@ -19,6 +19,10 @@
         "symfony/var-dumper": "^7.2"
     },
     "scripts": {
-	    "start": "php -S localhost:8000 public/index.php"
+	    "start": "php -S localhost:8000 public/index.php",
+      "tests": "./vendor/bin/phpunit --display-deprecations --display-notices --display-warnings tests/unit/*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12.1"
     }
 }

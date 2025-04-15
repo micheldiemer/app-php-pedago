@@ -1,0 +1,58 @@
+<?php
+
+declare(strict_types=1);
+
+require_once __DIR__ . '/../../vendor/autoload.php';
+
+use PHPUnit\Framework\TestCase;
+use App\Http\Url;
+
+define('PHPUNIT_RUNNING', 1);
+
+class UrlTest extends TestCase
+{
+    public function testEmpty()
+    {
+        $this->expectException(\InvalidArgumentException::class);
+        $url = new Url('', '');
+    }
+
+    public function testLocal()
+    {
+        $scheme = 'http';
+        $hostname = 'localhost';
+        $path = '/index.php';
+        $urlstr = "{$scheme}://{$hostname}{$path}";
+
+        $url = Url::fromString($urlstr);
+
+        $this->assertEquals('http', $url->scheme);
+        $this->assertEquals('localhost', $url->hostname);
+        $this->assertEquals('index.php', $url->path);
+        $this->assertNull($url->fragment);
+
+        $this->assertEquals($urlstr, strval($url));
+    }
+
+
+    public function testLocalPort()
+    {
+        $scheme = 'http';
+        $hostname = 'localhost';
+        $port = '8000';
+        $path = '/index.php';
+        $urlstr = "{$scheme}://{$hostname}:{$port}{$path}";
+        echo "{$scheme}://{$hostname}:{$port}{$path}" . PHP_EOL;
+        echo "Url testée $urlstr" . PHP_EOL;
+        $url = Url::fromString($urlstr);
+
+        $this->assertEquals('http', $url->scheme);
+        $this->assertEquals('localhost', $url->hostname);
+        $this->assertEquals($port, $url->port);
+        $this->assertEquals('index.php', $url->path);
+        $this->assertNull($url->fragment);
+
+        echo "Url générée par la classe Url $url" . PHP_EOL;
+        $this->assertEquals($urlstr, strval($url));
+    }
+}

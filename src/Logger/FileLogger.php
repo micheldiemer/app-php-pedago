@@ -52,7 +52,7 @@ class FileLogger implements ILogger
             if (!is_array($val) && (!is_object($val) || method_exists($val, '__toString'))) {
                 $replace['{' . $key . '}'] = $val;
             } else {
-                $replace['{' . $key . '}'] = var_export($val, true);
+                $replace['{' . $key . '}'] = '$key = ' . var_export($val, true);
             }
         }
 
