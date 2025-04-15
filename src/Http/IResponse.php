@@ -2,16 +2,16 @@
 
 namespace App\Http;
 
-use Exception;
-
 interface IResponse
 {
-    public function json($data): IResponse;
-    public function html($data): IResponse;
-    public function raw($data): IResponse;
-
-
-    public function sendFile(string $fileName, false|string $sendName);
-
-    public function send();
+    public int $code { get; set; }
+    public function json($data, ?int $code = null): IResponse;
+    public function html($data, ?int $code = null): IResponse;
+    public function raw($data, ?int $code = null): IResponse;
+    public function sendFile(
+        string $fileName,
+        false|string $sendName = false,
+        ?int $code = null
+    ): IResponse;
+    public function send(?int $code = null): IResponse;
 }

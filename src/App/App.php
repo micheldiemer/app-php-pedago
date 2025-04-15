@@ -5,6 +5,11 @@ namespace App\App;
 use App\Logger\ILogger;
 use App\Logger\FileLogger;
 
+use App\Http\Request;
+use App\Http\Response;
+
+
+
 use Symfony\Component\Dotenv\Dotenv;
 
 
@@ -16,6 +21,8 @@ class App
     private $_app_root;
     private $dotenv;
     private ILogger $_logger;
+    private Request $_request;
+    private Response $_reponse;
 
     public function loadEnv($file)
     {
@@ -31,6 +38,8 @@ class App
         $this->setLogger(new FileLogger($logFile));
         $this->loadEnv($appRoot . '/' . $envFile);
         $this->log('I', 'app ' . $_ENV['APP_NAME'] . ' started');
+        $this->_request = new Request($this->_logger);
+        $this->_reponse = new Response($this->_logger);
     }
 
     public function __destruct()
@@ -51,6 +60,16 @@ class App
     public function appRoot()
     {
         return $this->_app_root;
+    }
+
+    public function rep(): Response
+    {
+        return $this->reponse();
+    }
+
+    public function reponse(): Response
+    {
+        return $this->_reponse;
     }
 
     public function name(): string

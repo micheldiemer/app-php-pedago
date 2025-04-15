@@ -75,3 +75,92 @@
 05:18.210:18781:18.211:app App Php Pedago finished
 05:18.587:18781:18.588:app App Php Pedago started
 05:18.587:18781:18.588:app App Php Pedago finished
+43:20.173:18781:20.181:app App Php Pedago started
+44:06.266:18781:06.267:app App Php Pedago started
+44:15.992:18781:15.993:app App Php Pedago started
+44:15.992:18781:15.996:app App Php Pedago finished
+45:14.778:18781:14.779:app App Php Pedago started
+45:14.778:18781:14.779:app App Php Pedago finished
+45:25.547:18781:25.550:app App Php Pedago started
+45:25.547:18781:25.551:app App Php Pedago finished
+46:13.830:18781:13.831:app App Php Pedago started
+46:13.830:18781:13.831:App\Http/App\Http\Response setHeader
+46:13.830:18781:13.837:App\Http/App\Http\Response setHeader
+46:13.830:18781:13.837:App\Http/App\Http\Response setHeader
+46:13.830:18781:13.837:App\Http/App\Http\Response réponse 200 
+46:13.830:18781:13.838:App\Http/App\Http\Response envoi fichier /home/michel/projets/ifide_sio2/public/../assets/img/php.png
+46:13.830:18781:13.838:app App Php Pedago finished
+47:19.736:18781:19.737:app App Php Pedago started
+47:19.736:18781:19.738:App\Http/App\Http\Response setHeader
+47:19.736:18781:19.739:app App Php Pedago finished
+47:19.967:18781:19.968:app App Php Pedago started
+47:19.967:18781:19.968:App\Http/App\Http\Response setHeader
+47:19.967:18781:19.968:app App Php Pedago finished
+47:30.463:18781:30.464:app App Php Pedago started
+47:30.463:18781:30.465:App\Http/App\Http\Response setHeader
+47:30.463:18781:30.465:App\Http/App\Http\Response réponse 200 
+47:30.463:18781:30.470:App\Http/App\Http\Response ["#","ger\u00e9"]
+47:30.463:18781:30.470:app App Php Pedago finished
+47:52.651:18781:52.651:app App Php Pedago started
+47:52.651:18781:52.652:App\Http/App\Http\Response setHeader
+47:52.651:18781:52.653:App\Http/App\Http\Response réponse 200 
+47:52.651:18781:52.653:App\Http/App\Http\Response {}
+47:52.651:18781:52.653:app App Php Pedago finished
+48:44.761:18781:44.762:app App Php Pedago started
+48:44.761:18781:44.763:App\Http/App\Http\Response setHeader
+48:44.761:18781:44.763:App\Http/App\Http\Response réponse 200 
+48:44.761:18781:44.763:App\Http/App\Http\Response {"x":"ee","y":"ff"}
+48:44.761:18781:44.763:app App Php Pedago finished
+49:23.128:18781:23.129:app App Php Pedago started
+49:23.128:18781:23.130:App\Http/App\Http\Response setHeader
+49:23.128:18781:23.130:App\Http/App\Http\Response réponse 200 
+49:23.128:18781:23.130:App\Http/App\Http\Response ee
+49:23.128:18781:23.130:app App Php Pedago finished
+59:48.936:18781:48.937:app App Php Pedago started
+59:48.936:18781:48.937:App\Http/App\Http\Response réponse 200 
+59:48.936:18781:48.937:App\Http/App\Http\Response ee
+59:48.936:18781:48.938:app App Php Pedago finished
+00:04.163:18781:04.164:app App Php Pedago started
+00:04.163:18781:04.164:App\Http/App\Http\Response réponse 200 
+00:04.163:18781:04.164:App\Http/App\Http\Response ee
+00:04.163:18781:04.164:app App Php Pedago finished
+01:10.441:18781:10.443:app App Php Pedago started
+01:10.441:18781:10.445:App\Http/App\Http\Response réponse 200 
+01:10.441:18781:10.445:App\Http/App\Http\Response <b>ee</b>
+01:10.441:18781:10.445:app App Php Pedago finished
+01:17.467:18781:17.468:app App Php Pedago started
+01:17.467:18781:17.469:App\Http/App\Http\Response réponse 200 
+01:17.467:18781:17.469:App\Http/App\Http\Response <b>ee</b>
+01:17.467:18781:17.469:app App Php Pedago finished
+01:18.528:18781:18.529:app App Php Pedago started
+01:18.528:18781:18.529:App\Http/App\Http\Response réponse 200 
+01:18.528:18781:18.530:App\Http/App\Http\Response <b>ee</b>
+01:18.528:18781:18.530:app App Php Pedago finished
+01:23.848:18781:23.849:app App Php Pedago started
+01:23.848:18781:23.850:App\Http/App\Http\Response réponse 200 
+01:23.848:18781:23.850:App\Http/App\Http\Response <b>ee</b>
+01:23.848:18781:23.850:app App Php Pedago finished
+01:24.374:18781:24.375:app App Php Pedago started
+01:24.374:18781:24.375:App\Http/App\Http\Response réponse 200 
+01:24.374:18781:24.375:App\Http/App\Http\Response <b>ee</b>
+01:24.374:18781:24.375:app App Php Pedago finished
+01:40.428:18781:40.429:app App Php Pedago started
+01:40.428:18781:40.429:App\Http/App\Http\Response setHeader
+01:40.428:18781:40.429:App\Http/App\Http\Response réponse 200 
+01:40.428:18781:40.429:App\Http/App\Http\Response <b>ee</b>
+01:40.428:18781:40.429:app App Php Pedago finished
+01:52.562:18781:52.562:app App Php Pedago started
+01:52.562:18781:52.563:App\Http/App\Http\Response setHeader
+01:52.562:18781:52.563:App\Http/App\Http\Response réponse 200 
+01:52.562:18781:52.563:App\Http/App\Http\Response <b>ee</b>
+01:52.562:18781:52.563:app App Php Pedago finished
+01:52.820:18781:52.821:app App Php Pedago started
+01:52.820:18781:52.822:App\Http/App\Http\Response setHeader
+01:52.820:18781:52.822:App\Http/App\Http\Response réponse 200 
+01:52.820:18781:52.822:App\Http/App\Http\Response <b>ee</b>
+01:52.820:18781:52.822:app App Php Pedago finished
+03:46.225:18781:46.227:app App Php Pedago started
+03:46.225:18781:46.228:App\Http/App\Http\Response setHeader
+03:46.225:18781:46.228:App\Http/App\Http\Response réponse 200 
+03:46.225:18781:46.228:App\Http/App\Http\Response {"todos":{"id":"\u00b41","name":"app php pedago","done":"false"}}
+03:46.225:18781:46.228:app App Php Pedago finished
