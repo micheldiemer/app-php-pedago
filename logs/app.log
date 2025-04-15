@@ -1,166 +1,88 @@
 
-04-15-2025 08:14:16.613000:518781:16.613100:app started
-04-15-2025 08:14:16.613000:518781:16.613300:app finished
-04-15-2025 08:14:17.225100:518781:17.225200:app started
-04-15-2025 08:14:17.225100:518781:17.225400:app finished
-04-15-2025 08:14:18.016700:518781:18.016900:app started
-04-15-2025 08:14:18.016700:518781:18.017100:app finished
-04-15-2025 08:14:18.242000:518781:18.242100:app started
-04-15-2025 08:14:18.242000:518781:18.242200:app finished
-04-15-2025 08:14:18.730600:518781:18.730700:app started
-04-15-2025 08:14:18.730600:518781:18.730900:app finished
-04-15-2025 08:14:18.966300:518781:18.966400:app started
-04-15-2025 08:14:18.966300:518781:18.966400:app finished
-04-15-2025 08:14:19.093800:518781:19.094000:app started
-04-15-2025 08:14:19.093800:518781:19.094300:app finished
-04-15-2025 08:14:19.294000:518781:19.294100:app started
-04-15-2025 08:14:19.294000:518781:19.294100:app finished
-04-15-2025 08:14:19.485500:518781:19.485700:app started
-04-15-2025 08:14:19.485500:518781:19.485900:app finished
-04-15-2025 08:14:19.685800:518781:19.686000:app started
-04-15-2025 08:14:19.685800:518781:19.686500:app finished
-04-15-2025 08:16:29.449300:518781:29.449400:app started
-04-15-2025 08:16:29.449300:518781:29.449600:app finished
-2104-15-2025 08:17:37.840700:518781:37.841000:app started
-2104-15-2025 08:17:37.840700:518781:37.841300:app finished
-2104-15-2025 08:17:52.100700:518781:52.100900:app started
-2104-15-2025 08:17:52.100700:518781:52.101000:app finished
-2104-15-2025 08:17:52.949800:518781:52.949900:app started
-2104-15-2025 08:17:52.949800:518781:52.950000:app finished
-04-15-2025 08:22:49.6:518781:49.621000:app started
-04-15-2025 08:22:49.6:518781:49.621100:app finished
-04-15-2025 08:23:03.9:518781:03.968500:app started
-04-15-2025 08:23:03.9:518781:03.968500:app finished
-04-15-2025 08:23:04.8:518781:04.821200:app started
-04-15-2025 08:23:04.8:518781:04.821300:app finished
-04-15-2025 08:23:33.4141:518781:33.414300:app started
-04-15-2025 08:23:33.4141:518781:33.414400:app finished
-04-15-2025 08:23:56.237:518781:56.237800:app started
-04-15-2025 08:23:56.237:518781:56.237900:app finished
-24:51.131:518781:51.131500:app started
-24:51.131:518781:51.131600:app finished
-24:54.307:518781:54.307700:app started
-24:54.307:518781:54.307800:app finished
-24:55.015:518781:55.015100:app started
-24:55.015:518781:55.015200:app finished
-26:30.:18781:30.338:app started
-26:30.:18781:30.338:app finished
-26:34.:18781:34.332:app started
-26:34.:18781:34.332:app finished
-27:21.687:18781:21.687:app started
-27:21.687:18781:21.687:app finished
-27:24.023:18781:24.024:app started
-27:24.023:18781:24.024:app finished
-27:25.027:18781:25.027:app started
-27:25.027:18781:25.027:app finished
-27:30.614:18781:30.614:app started
-27:30.614:18781:30.614:app finished
-27:38.951:18781:38.951:app started
-27:38.951:18781:38.951:app finished
-27:41.076:18781:41.076:app started
-27:41.076:18781:41.076:app finished
-27:42.515:18781:42.515:app started
-27:42.515:18781:42.515:app finished
-27:43.281:18781:43.281:app started
-27:43.281:18781:43.281:app finished
-31:55.413:18781:55.417:app started
-31:55.413:18781:55.417:app finished
-38:42.140:18781:42.140:app App Php Pedago started
-38:42.140:18781:42.140:app App Php Pedago finished
-05:08.050:18781:08.056:app App Php Pedago started
-05:08.050:18781:08.056:app App Php Pedago finished
-05:17.355:18781:17.356:app App Php Pedago started
-05:17.355:18781:17.356:app App Php Pedago finished
-05:18.210:18781:18.211:app App Php Pedago started
-05:18.210:18781:18.211:app App Php Pedago finished
-05:18.587:18781:18.588:app App Php Pedago started
-05:18.587:18781:18.588:app App Php Pedago finished
-43:20.173:18781:20.181:app App Php Pedago started
-44:06.266:18781:06.267:app App Php Pedago started
-44:15.992:18781:15.993:app App Php Pedago started
-44:15.992:18781:15.996:app App Php Pedago finished
-45:14.778:18781:14.779:app App Php Pedago started
-45:14.778:18781:14.779:app App Php Pedago finished
-45:25.547:18781:25.550:app App Php Pedago started
-45:25.547:18781:25.551:app App Php Pedago finished
-46:13.830:18781:13.831:app App Php Pedago started
-46:13.830:18781:13.831:App\Http/App\Http\Response setHeader
-46:13.830:18781:13.837:App\Http/App\Http\Response setHeader
-46:13.830:18781:13.837:App\Http/App\Http\Response setHeader
-46:13.830:18781:13.837:App\Http/App\Http\Response réponse 200 
-46:13.830:18781:13.838:App\Http/App\Http\Response envoi fichier /home/michel/projets/ifide_sio2/public/../assets/img/php.png
-46:13.830:18781:13.838:app App Php Pedago finished
-47:19.736:18781:19.737:app App Php Pedago started
-47:19.736:18781:19.738:App\Http/App\Http\Response setHeader
-47:19.736:18781:19.739:app App Php Pedago finished
-47:19.967:18781:19.968:app App Php Pedago started
-47:19.967:18781:19.968:App\Http/App\Http\Response setHeader
-47:19.967:18781:19.968:app App Php Pedago finished
-47:30.463:18781:30.464:app App Php Pedago started
-47:30.463:18781:30.465:App\Http/App\Http\Response setHeader
-47:30.463:18781:30.465:App\Http/App\Http\Response réponse 200 
-47:30.463:18781:30.470:App\Http/App\Http\Response ["#","ger\u00e9"]
-47:30.463:18781:30.470:app App Php Pedago finished
-47:52.651:18781:52.651:app App Php Pedago started
-47:52.651:18781:52.652:App\Http/App\Http\Response setHeader
-47:52.651:18781:52.653:App\Http/App\Http\Response réponse 200 
-47:52.651:18781:52.653:App\Http/App\Http\Response {}
-47:52.651:18781:52.653:app App Php Pedago finished
-48:44.761:18781:44.762:app App Php Pedago started
-48:44.761:18781:44.763:App\Http/App\Http\Response setHeader
-48:44.761:18781:44.763:App\Http/App\Http\Response réponse 200 
-48:44.761:18781:44.763:App\Http/App\Http\Response {"x":"ee","y":"ff"}
-48:44.761:18781:44.763:app App Php Pedago finished
-49:23.128:18781:23.129:app App Php Pedago started
-49:23.128:18781:23.130:App\Http/App\Http\Response setHeader
-49:23.128:18781:23.130:App\Http/App\Http\Response réponse 200 
-49:23.128:18781:23.130:App\Http/App\Http\Response ee
-49:23.128:18781:23.130:app App Php Pedago finished
-59:48.936:18781:48.937:app App Php Pedago started
-59:48.936:18781:48.937:App\Http/App\Http\Response réponse 200 
-59:48.936:18781:48.937:App\Http/App\Http\Response ee
-59:48.936:18781:48.938:app App Php Pedago finished
-00:04.163:18781:04.164:app App Php Pedago started
-00:04.163:18781:04.164:App\Http/App\Http\Response réponse 200 
-00:04.163:18781:04.164:App\Http/App\Http\Response ee
-00:04.163:18781:04.164:app App Php Pedago finished
-01:10.441:18781:10.443:app App Php Pedago started
-01:10.441:18781:10.445:App\Http/App\Http\Response réponse 200 
-01:10.441:18781:10.445:App\Http/App\Http\Response <b>ee</b>
-01:10.441:18781:10.445:app App Php Pedago finished
-01:17.467:18781:17.468:app App Php Pedago started
-01:17.467:18781:17.469:App\Http/App\Http\Response réponse 200 
-01:17.467:18781:17.469:App\Http/App\Http\Response <b>ee</b>
-01:17.467:18781:17.469:app App Php Pedago finished
-01:18.528:18781:18.529:app App Php Pedago started
-01:18.528:18781:18.529:App\Http/App\Http\Response réponse 200 
-01:18.528:18781:18.530:App\Http/App\Http\Response <b>ee</b>
-01:18.528:18781:18.530:app App Php Pedago finished
-01:23.848:18781:23.849:app App Php Pedago started
-01:23.848:18781:23.850:App\Http/App\Http\Response réponse 200 
-01:23.848:18781:23.850:App\Http/App\Http\Response <b>ee</b>
-01:23.848:18781:23.850:app App Php Pedago finished
-01:24.374:18781:24.375:app App Php Pedago started
-01:24.374:18781:24.375:App\Http/App\Http\Response réponse 200 
-01:24.374:18781:24.375:App\Http/App\Http\Response <b>ee</b>
-01:24.374:18781:24.375:app App Php Pedago finished
-01:40.428:18781:40.429:app App Php Pedago started
-01:40.428:18781:40.429:App\Http/App\Http\Response setHeader
-01:40.428:18781:40.429:App\Http/App\Http\Response réponse 200 
-01:40.428:18781:40.429:App\Http/App\Http\Response <b>ee</b>
-01:40.428:18781:40.429:app App Php Pedago finished
-01:52.562:18781:52.562:app App Php Pedago started
-01:52.562:18781:52.563:App\Http/App\Http\Response setHeader
-01:52.562:18781:52.563:App\Http/App\Http\Response réponse 200 
-01:52.562:18781:52.563:App\Http/App\Http\Response <b>ee</b>
-01:52.562:18781:52.563:app App Php Pedago finished
-01:52.820:18781:52.821:app App Php Pedago started
-01:52.820:18781:52.822:App\Http/App\Http\Response setHeader
-01:52.820:18781:52.822:App\Http/App\Http\Response réponse 200 
-01:52.820:18781:52.822:App\Http/App\Http\Response <b>ee</b>
-01:52.820:18781:52.822:app App Php Pedago finished
-03:46.225:18781:46.227:app App Php Pedago started
-03:46.225:18781:46.228:App\Http/App\Http\Response setHeader
-03:46.225:18781:46.228:App\Http/App\Http\Response réponse 200 
-03:46.225:18781:46.228:App\Http/App\Http\Response {"todos":{"id":"\u00b41","name":"app php pedago","done":"false"}}
-03:46.225:18781:46.228:app App Php Pedago finished
+03:30.752:18781:30.752:app App Php Pedago started
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request setHeader
+03:30.752:18781:30.753:App\Http/App\Http\Request rq http://localhost:8000:8000/ 
+03:30.752:18781:30.753:App\Http/App\Http\Request rq GET 
+03:30.752:18781:30.754:App\Http/App\Http\Response setHeader
+03:30.752:18781:30.754:App\Http/App\Http\Response réponse 200 
+03:30.752:18781:30.754:App\Http/App\Http\Response http://localhost:8000:8000/
+03:30.752:18781:30.754:App\Http/App\Http\Response  envoyée à http://127.0.0.1:42360
+03:30.752:18781:30.754:App\Http/App\Http\Response setHeader
+03:30.752:18781:30.754:App\Http/App\Http\Response réponse 200 
+03:30.752:18781:30.754:App\Http/App\Http\Response http://127.0.0.1:42360
+03:30.752:18781:30.754:App\Http/App\Http\Response  envoyée à http://127.0.0.1:42360
+03:30.752:18781:30.754:app App Php Pedago finished
+04:09.209:18781:09.211:app App Php Pedago started
+04:09.209:18781:09.213:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.213:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.213:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.213:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.213:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.213:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.213:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.213:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.214:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.214:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.214:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.214:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.214:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.214:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.214:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.214:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.214:App\Http/App\Http\Request setHeader
+04:09.209:18781:09.214:App\Http/App\Http\Request rq http://localhost:8000:8000/ 
+04:09.209:18781:09.214:App\Http/App\Http\Request rq GET 
+04:09.209:18781:09.215:App\Http/App\Http\Response setHeader
+04:09.209:18781:09.215:App\Http/App\Http\Response réponse 200 
+04:09.209:18781:09.215:App\Http/App\Http\Response http://localhost:8000:8000/
+04:09.209:18781:09.215:App\Http/App\Http\Response  envoyée à http://127.0.0.1:42366
+04:09.209:18781:09.215:App\Http/App\Http\Response setHeader
+04:09.209:18781:09.215:App\Http/App\Http\Response réponse 200 
+04:09.209:18781:09.215:App\Http/App\Http\Response http://127.0.0.1:42366
+04:09.209:18781:09.215:App\Http/App\Http\Response  envoyée à http://127.0.0.1:42366
+04:09.209:18781:09.215:app App Php Pedago finished
+31:03.078:18781:03.080:app App Php Pedago started
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request setHeader
+31:03.078:18781:03.082:App\Http/App\Http\Request rq http://localhost:8000:8000/ 
+31:03.078:18781:03.082:App\Http/App\Http\Request rq GET 
+31:03.078:18781:03.083:App\Http/App\Http\Response setHeader
+31:03.078:18781:03.083:App\Http/App\Http\Response réponse 200 
+31:03.078:18781:03.083:App\Http/App\Http\Response http://localhost:8000:8000/
+31:03.078:18781:03.083:App\Http/App\Http\Response  envoyée à http://127.0.0.1:46024
+31:03.078:18781:03.083:App\Http/App\Http\Response setHeader
+31:03.078:18781:03.083:App\Http/App\Http\Response réponse 200 
+31:03.078:18781:03.083:App\Http/App\Http\Response http://127.0.0.1:46024
+31:03.078:18781:03.083:App\Http/App\Http\Response  envoyée à http://127.0.0.1:46024
+31:03.078:18781:03.083:app App Php Pedago finished

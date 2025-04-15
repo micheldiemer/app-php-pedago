@@ -10,3 +10,5 @@ $app->rep()->html('<b>' . gras . '</b>')->send();
 $app->rep()->raw('<b>' . gras . '</b>')->send();
 $app->rep()->json(['todos' => ['id' => '´1', 'name' => 'app php pedago', 'done' => 'false']])->send();
 */
+$app->rep()->raw(strval($app->req()->uri()))->send();
+$app->rep()->raw(strval($app->rep()->uri()))->send();

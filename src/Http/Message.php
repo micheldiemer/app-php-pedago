@@ -29,6 +29,15 @@ class Message implements IMessage
         }
     }
 
+    public ?int $size {
+        get {
+            return $this->headers['Content-Length'] ?? null;
+        }
+        set(?int $value) {
+            $this->setHeader('Content-Length', $value);
+        }
+    }
+
     public function get($header): ?string
     {
         return $this->headers[trim($header)] ?? null;

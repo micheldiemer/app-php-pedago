@@ -62,6 +62,16 @@ class App
         return $this->_app_root;
     }
 
+    public function req(): Request
+    {
+        return $this->request();
+    }
+
+    public function request(): Request
+    {
+        return $this->_request;
+    }
+
     public function rep(): Response
     {
         return $this->reponse();

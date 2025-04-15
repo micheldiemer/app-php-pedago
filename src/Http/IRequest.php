@@ -2,4 +2,7 @@
 
 namespace App\Http;
 
-interface IRequest {}
+interface IRequest
+{
+    public string $method { get; set; }
+}

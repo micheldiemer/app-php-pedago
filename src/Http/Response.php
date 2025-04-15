@@ -4,6 +4,27 @@ namespace App\Http;
 
 class Response extends Message implements IResponse
 {
+    private ?Url $_uri = null;
+
+    public function uri(): Url
+    {
+        return $this->_uri;
+    }
+
+
+    public function __construct($logger)
+    {
+        parent::__construct($logger);
+        //https://stackoverflow.com/questions/6768793/get-the-full-url-in-php
+        // http_build_url
+        $this->_uri = new Url($_SERVER['REMOTE_ADDR'], null);
+
+        $this->_uri->scheme =
+            (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? 'https' : 'http';
+
+        $this->_uri->port = $_SERVER['REMOTE_PORT'];
+    }
+
     public int $code {
         get {
             return http_response_code();
@@ -77,6 +98,7 @@ class Response extends Message implements IResponse
         if (is_int($code)) $this->code = $code;
         $this->log(sprintf('réponse %s %s', $this->code, $this->contentType));
         $this->log(sprintf("%.120s", $this->getShortBody()));
+        $this->log(' envoyée à ' . $this->_uri);
         echo $this->getBody();
         return $this;
     }

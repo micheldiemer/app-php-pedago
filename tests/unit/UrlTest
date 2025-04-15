@@ -26,9 +26,9 @@ class UrlTest extends TestCase
 
         $url = Url::fromString($urlstr);
 
-        $this->assertEquals('http', $url->scheme);
-        $this->assertEquals('localhost', $url->hostname);
-        $this->assertEquals('index.php', $url->path);
+        $this->assertEquals($scheme, $url->scheme);
+        $this->assertEquals($hostname, $url->hostname);
+        $this->assertEquals($path, $url->path);
         $this->assertNull($url->fragment);
 
         $this->assertEquals($urlstr, strval($url));
@@ -47,11 +47,19 @@ class UrlTest extends TestCase
         $url = Url::fromString($urlstr);
 
         $this->assertEquals('http', $url->scheme);
-        $this->assertEquals('localhost', $url->hostname);
+        $this->assertEquals($hostname, $url->hostname);
         $this->assertEquals($port, $url->port);
-        $this->assertEquals('index.php', $url->path);
+        $this->assertEquals($path, $url->path);
         $this->assertNull($url->fragment);
 
+        echo "Url générée par la classe Url $url" . PHP_EOL;
+        $this->assertEquals($urlstr, strval($url));
+    }
+
+    public function testPath()
+    {
+        $urlstr = 'http://localhost:8000/x/y/z';
+        $url = Url::fromString(($urlstr));
         echo "Url générée par la classe Url $url" . PHP_EOL;
         $this->assertEquals($urlstr, strval($url));
     }

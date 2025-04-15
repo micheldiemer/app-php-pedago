@@ -101,10 +101,12 @@ class Url
                 $this->path = null;
                 return;
             }
-            $paths = explode('/', $value);
-            foreach ($paths as $path) {
-                $this->path .= rawurlencode($path);
-            }
+            $this->path = $value;
+
+            // $pos = stripos('/',$value,$i);
+            // foreach ($paths as $path) {
+            //     $this->path .= rawurlencode($path);
+            // }
         }
     }
 
