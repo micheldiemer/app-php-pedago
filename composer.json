@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Micheldiemer\\AppPhpPedago\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
@@ -14,5 +14,11 @@
         }
     ],
     "minimum-stability": "beta",
-    "require": {}
+    "require": {
+        "symfony/dotenv": "^7.2",
+        "symfony/var-dumper": "^7.2"
+    },
+    "scripts": {
+	    "start": "php -S localhost:8000 public/index.php"
+    }
 }
